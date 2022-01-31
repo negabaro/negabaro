@@ -1,1 +1,1 @@
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Ruby,Docker)](https://github.com/negabaro)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Docker,Ruby,JavaScript)](https://github.com/negabaro)
